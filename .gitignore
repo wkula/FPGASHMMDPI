@@ -170,4 +170,6 @@ checkpoint
 *.data*
 *.index
 *.pb
-
+*.h5
+*.zip
+*.png
